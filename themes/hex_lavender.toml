@@ -1,0 +1,52 @@
+# Author: Peter Delevoryas <peter@pjd.dev>
+# NOTE: Derived from portalsurfer <https://github.com/PORTALSURFER>'s hex_lavender theme
+# https://lawlesscreation.github.io/hex-color-visualiser/
+# #0e0e0d
+# #181a17
+# #2b3444
+# #61586f
+# #686e73
+# #878480
+# #8e80de
+# #7b89a3
+# #bcb6ba
+# #9db2b8
+# #a0c7cf
+# #ff2e5f
+# #0affa9
+# #29bbff
+# #000000
+# #290019
+# #958e9a
+# #404768
+# #0affa9
+# #ff0900
+# #ffbf00
+# #57ff89
+# #dad795
+
+[colors.primary]
+background = "#181a17"
+foreground = "#878480"
+
+[colors.normal]
+black = "#181a17"
+red = "#404768"
+green = "#61586f"
+yellow = "#7b89a3"
+# blue = "#2b3444"
+blue = "#404768"
+magenta = "#61586f"
+cyan = "#a0c7cf"
+white = "#878480"
+
+[colors.bright]
+black = "#290019"
+red = "#ff2e5f"
+green = "#0affa9"
+yellow = "#ffbf00"
+blue = "#29bbff"
+magenta = "#8e80de"
+cyan = "#7b89a3"
+white = "#bcb6ba"
+
